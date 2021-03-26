@@ -1,6 +1,6 @@
 # hello-world
 Hello World!
 
-I'm eating grapes and learning github.
+Now I'm not eating grapes and learning github.
 
 Here I go!
